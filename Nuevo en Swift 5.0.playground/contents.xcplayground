@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduccion'/>
+        <page name='01 - Estabilidad ABI'/>
+        <page name='02 - Tipo estandar RESULT'/>
+        <page name='03 - Manejo de casos futuros en ENUM'/>
+        <page name='04 - CADENAS en bruto (Raw Strings)'/>
+        <page name='05 - Comprobar MULTIPLOS'/>
+        <page name='06 - Filtrando valores de un DICCIONARIO'/>
+    </pages>
+</playground>
