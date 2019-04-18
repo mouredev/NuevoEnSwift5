@@ -23,16 +23,18 @@ En este tutorial veremos las principales novedades (y ejemplos en código de su 
 4. CADENAS en bruto (Raw Strings)
 5. Comprobar MÚLTIPLOS
 6. Filtrando valores de un DICCIONARIO
-
-*CONTINUARÁ EN LA PARTE 2...*
+7. Operador 'LESS THAN' como condición en compilación
+8. Nuevo TRY? opcional
+9. Parámetros con VALORES VARIABLES en enum
+10. EXTRA: Muy pronto.... Patrón ASYNC/AWAIT y COUNT(where: )
 
 ## Videotutorial
 [![¿Qué hay NUEVO en SWIFT 5.0? (1 de 2) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/EUxAaqxBEBs/0.jpg)](https://www.youtube.com/watch?v=EUxAaqxBEBs)
+[![¿Qué hay NUEVO en SWIFT 5.0? (2 de 2) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/KhmtXd4-zcM/0.jpg)](https://www.youtube.com/watch?v=KhmtXd4-zcM)
 
 ## Requisitos
 * [Xcode](https://developer.apple.com/xcode/) 10.2
 * Swift 5
-
 
 ## ¿Te gusta el contenido?
 

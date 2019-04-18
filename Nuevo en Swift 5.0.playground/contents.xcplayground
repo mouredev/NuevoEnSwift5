@@ -8,5 +8,9 @@
         <page name='04 - CADENAS en bruto (Raw Strings)'/>
         <page name='05 - Comprobar MULTIPLOS'/>
         <page name='06 - Filtrando valores de un DICCIONARIO'/>
+        <page name='07 - Operador &apos;LESS THAN&apos; en compilacion'/>
+        <page name='08 - Nuevo TRY opcional'/>
+        <page name='09 - Parametros con VALORES VARIABLES en enum'/>
+        <page name='10 - EXTRA - Muy pronto...'/>
     </pages>
 </playground>

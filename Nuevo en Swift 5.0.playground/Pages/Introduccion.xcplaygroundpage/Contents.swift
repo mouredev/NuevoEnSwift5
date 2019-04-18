@@ -22,6 +22,10 @@ En este tutorial veremos las principales novedades (y ejemplos en código de su 
 4. [CADENAS en bruto (Raw Strings)](04%20-%20CADENAS%20en%20bruto%20(Raw%20Strings))
 5. [Comprobar MÚLTIPLOS](05%20-%20Comprobar%20MULTIPLOS)
 6. [Filtrando valores de un DICCIONARIO](06%20-%20Filtrando%20valores%20de%20un%20DICCIONARIO)
+7. [Operador 'LESS THAN' en compilación](07%20-%20Operador%20'LESS%20THAN'%20en%20compilacion)
+8. [Nuevo TRY? opcional](08%20-%20Nuevo%20TRY%20opcional)
+9. [Parámetros con VALORES VARIABLES en enum](09%20-%20Parametros%20con%20VALORES%20VARIABLES%20en%20enum)
+10. [EXTRA - Muy pronto...](10%20-%20EXTRA%20-%20Muy%20pronto...)
 
 *CONTINUARÁ EN LA PARTE 2...*
 
